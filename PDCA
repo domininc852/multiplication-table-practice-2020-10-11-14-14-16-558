@@ -1,0 +1,29 @@
+isStartSmallerThanEnd:
+P: 5mins
+D:1mins
+C:
+A:
+
+isStartAndEndValid:
+P: 5mins:
+D:3mins
+C:
+A:
+
+generateMultiplicationLine:
+P: 10mins
+D: 4mins
+C:
+A:
+
+generateMultiplicationTable:
+P:15mins
+D:11mins
+C:
+A:
+
+generateMultiplicationTableWithRange:
+P:25 mins
+D:15 mins
+C:
+A:
