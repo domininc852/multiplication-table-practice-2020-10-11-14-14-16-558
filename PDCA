@@ -18,12 +18,12 @@ A:
 
 generateMultiplicationTable:
 P:15mins
-D:11mins
+D:7mins
 C:
 A:
 
 generateMultiplicationTableWithRange:
 P:25 mins
-D:15 mins
+D:3 mins
 C:
 A:
